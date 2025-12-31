@@ -1,11 +1,8 @@
-# stride-and-lead
-A student-built project on Kho Kho, leadership, and decision-making
-
 # Stride & Lead 
 
 **Kho Kho, Leadership & Decision-Making Through Sport**
 
-Stride & Lead is a student-built web project that explores how the traditional Indian sport **Kho Kho** teaches decision-making, coordination, leadership, and situational awareness — both on and off the field.
+Stride & Lead is a student-built web project that explores how the traditional Indian sport **Kho Kho** teaches decision-making, coordination, leadership, and situational awareness, both on and off the field.
 
 The project combines sport analysis, storytelling, and front-end development to present practical insights for runners, chasers, and team leaders.
 
