@@ -1,12 +1,6 @@
 # stride-and-lead
 A student-built project on Kho Kho, leadership, and decision-making
 
-Perfect. Here is a **clean, professional, copy-paste READY README.md** for your project — written at the **right level** (not childish, not overhyped, not fake-techy).
-
-You can paste this **directly into `README.md` on GitHub** and commit.
-
----
-
 # Stride & Lead 
 
 **Kho Kho, Leadership & Decision-Making Through Sport**
