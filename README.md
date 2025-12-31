@@ -98,7 +98,7 @@ The project reflects:
 
 ---
 
-## 👤 Author
+## Author
 
 **Thamaru B**
 Student | Aspiring Computer Science Major
