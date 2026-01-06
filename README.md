@@ -56,7 +56,7 @@ No external frameworks were used.
 
 ## Live Demo
 
- **Live Site:** *()*
+ **Live Site:** *(https://6954ff387f224000083a2c1c--stride-and-lead.netlify.app/)*
 
 
 ## Project Structure
